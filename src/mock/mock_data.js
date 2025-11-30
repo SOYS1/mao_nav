@@ -76,7 +76,7 @@ export const mockData = {
     },
     {
       "id": "category-1764505361680",
-      "icon": "羊毛🦙",
+      "icon": "🦙",
       "name": "哦，薅你毛",
       "order": 0,
       "sites": [
