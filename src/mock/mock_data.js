@@ -73,6 +73,21 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/linux.do"
         }
       ]
+    },
+    {
+      "id": "category-1764505361680",
+      "icon": "羊毛🦙",
+      "name": "哦，薅你毛",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1764505398851",
+          "name": "哦，薅你毛",
+          "url": "http://haonimao.zeabur.app/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/haonimao.zeabur.app"
+        }
+      ]
     }
   ],
   "title": "夕阳红🌇导航"
